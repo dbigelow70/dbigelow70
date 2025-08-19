@@ -10,7 +10,7 @@ My journey has led me to a passion for defensive cybersecurity, and I am now eag
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk and Log Analysis                       | Splunk Investigation and Report|
+| Splunk and Log Analysis                       | <a href="https://github.com/dbigelow70/Splunk-Investigation/blob/main/README.md">Splunk Investigation</a>|
 | IAM and Active Directory                      | Windows Group Policy Obejectives|
 | Azure security                                | Cloud Application Hosting and Security              
 | VMs and hypervisor management                 | Linus Systems Administration|
@@ -41,7 +41,7 @@ Now, I'm continuing to build on that foundational knowledge, with practice in Py
 </div>
 
 ## Projects
-- Splunk Investigation and Report
+- <a href="https://github.com/dbigelow70/Splunk-Investigation/blob/main/README.md">Splunk Investigation</a>
 - Simulated Penetration Test
 - Cloud Application Hosting and Security
 - Linux Systems Administration
