@@ -17,7 +17,7 @@ My journey has led me to a passion for defensive cybersecurity, and I am now eag
 | Vulnerability Scans                           | Network Vulnerability Assessment|
 | Pen Testing and Report Generation             | Simulated Penetration Test|
 | Network security architecture                 | Network Security and Firewall Architecture|
-| Network architecture diagram                  | Cloud Security Diagram |
+| Network architecture diagram                  | <a href="https://github.com/dbigelow70/Cloud-Security-Diagram/tree/main">Cloud Security Diagram</a> |
 
 
 Now, I'm continuing to build on that foundational knowledge, with practice in Python and scripting, SQL queries, NIST and ISO frameworks, and so much more.
@@ -48,7 +48,7 @@ Now, I'm continuing to build on that foundational knowledge, with practice in Py
 - Windows Group Policy Objectives
 - Network Vulnerability Assessment
 - Network Security and Firewall Architecture
-- Cloud Security Diagram
+- <a href="https://github.com/dbigelow70/Cloud-Security-Diagram/tree/main">Cloud Security Diagram</a> 
 - Vulnerability Testing for Web App
 
   
