@@ -16,8 +16,8 @@ My journey has led me to a passion for defensive cybersecurity, and I am now eag
 | VMs and hypervisor management                 | Linus Systems Administration|
 | Vulnerability Scans                           | Network Vulnerability Assessment|
 | Pen Testing and Report Generation             | Simulated Penetration Test|
-| Network security, IDS/IPS, and IoA/IoC        | Network Security and Firewall Architecture|
-| Snort rule analysis                           | Network Security and Firewall Architecture|
+| Network security, IDS/IPS, and IoA/IoC        | <a href="https://github.com/dbigelow70/network-security-and-firewall-architecture/tree/main">Network Security and Firewall Architecture</a>|
+| Snort rule analysis                           | <a href="https://github.com/dbigelow70/network-security-and-firewall-architecture/tree/main">Network Security and Firewall Architecture</a>|
 | Network architecture diagram                  | <a href="https://github.com/dbigelow70/Cloud-Security-Diagram/tree/main">Cloud Security Diagram</a> |
 
 
@@ -48,7 +48,7 @@ Now, I'm continuing to build on that foundational knowledge, with practice in Py
 - Linux Systems Administration
 - Windows Group Policy Objectives
 - Network Vulnerability Assessment
-- Network Security and Firewall Architecture
+- <a href="https://github.com/dbigelow70/network-security-and-firewall-architecture/tree/main">Network Security and Firewall Architecture</a>
 - <a href="https://github.com/dbigelow70/Cloud-Security-Diagram/tree/main">Cloud Security Diagram</a> 
 - Vulnerability Testing for Web App
 
