@@ -13,7 +13,7 @@ My journey has led me to a passion for defensive cybersecurity, and I am now eag
 | Splunk and Log Analysis                       | <a href="https://github.com/dbigelow70/Splunk-Investigation/blob/main/README.md">Splunk Investigation</a>|
 | IAM and Active Directory                      | Windows Group Policy Obejectives|
 | Azure security                                | Cloud Application Hosting and Security              
-| VMs and hypervisor management                 | Linus Systems Administration|
+| VMs and hypervisor management                 | Linux Systems Administration|
 | Vulnerability Scans                           | Network Vulnerability Assessment|
 | Pen Testing and Report Generation             | Simulated Penetration Test|
 | Network security, IDS/IPS, and IoA/IoC        | <a href="https://github.com/dbigelow70/network-security-and-firewall-architecture/tree/main">Network Security and Firewall Architecture</a>|
