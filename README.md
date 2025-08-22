@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/dana-j-bigelow">My LinkedIn Profile</a>
 
-I'm passionate about evolving technology, networking, and information security. Following a career pivot from the world of STM publishing, I'm now eager to combine my passions of problem-solving, research, continuous learning, and data protection. 
+I'm passionate about evolving technology, networking, and information security. Following a career pivot from the world of STM publishing, I'm now eager to combine my passions of problem-solving, research, and data protection. 
 
 My journey has led me to a passion for defensive cybersecurity, and I am now eager to fully transition into this field, specifically aiming to join a SOC team or cybersecurity analysis team at the entry level. I've gained foundational concepts and hands-on virtual practice through Columbia Engineering's Cybersecurity Bootcamp, and am ready to jump into the trenches. Self-study includes additional Python scripting and automation practice, SQL, HTML/CSS, and data presentation.
 
