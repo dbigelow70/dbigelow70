@@ -16,7 +16,8 @@ My journey has led me to a passion for defensive cybersecurity, and I am now eag
 | VMs and hypervisor management                 | Linus Systems Administration|
 | Vulnerability Scans                           | Network Vulnerability Assessment|
 | Pen Testing and Report Generation             | Simulated Penetration Test|
-| Network security architecture                 | Network Security and Firewall Architecture|
+| Network security, IDS/IPS, and IoA/IoC        | Network Security and Firewall Architecture|
+| Snort rule analysis                           | Network Security and Firewall Architecture|
 | Network architecture diagram                  | <a href="https://github.com/dbigelow70/Cloud-Security-Diagram/tree/main">Cloud Security Diagram</a> |
 
 
